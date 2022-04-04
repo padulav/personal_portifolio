@@ -4,7 +4,7 @@ export default class Projects extends React.Component{
     render(){
         return(
             <div className='projects page'>
-                <h4>As you may expect, most of the projects I took part are held by private companys.</h4>
+                <h4>As you may expect, most of the projects I took part are held by private companies.</h4>
                 <h4>But here is a  sample of my work that is open to the public</h4>
 
                 <div className='open-to-public'>
@@ -25,7 +25,7 @@ export default class Projects extends React.Component{
                 <h3>Academic Projects</h3>
 
                 <span className='project'>
-                        2o place in HackingRio
+                        2nd place in HackingRio
                         <a href='https://www.infnet.edu.br/esti/faculdade-86-alunos-do-infnet-ficam-entre-os-finalistas-do-cluster-de-esportes-do-hackingrio'>Infnet's reference (in portuguese)</a>
                 </span>
                 <span className='project'>

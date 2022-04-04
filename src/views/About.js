@@ -41,7 +41,7 @@ export default class Home extends React.Component{
                 <a href={cv} className='flex cv'>
                     <img className='pdfIcon' src={pdf} alt='pdf'/>
                     <div className='grid'>
-                        <span>Looking for somenthing more oficial?</span>
+                        <span>Looking for somenthing more official?</span>
                         <span>Take a look at my Curriculum Vitae</span>
                     </div>
                 </a>
