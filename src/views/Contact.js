@@ -11,24 +11,32 @@ export default class Contact extends React.Component{
             <div className='contact page flexCenter'>
                 <div>
                 <div className='flexCenter'>
-                    <img  className='contactImg' src={Telegram} alt='Telegram' /> 
-                    <span className='iconTitle'>Reach me through Telegram</span> 
-                    <span className='iconValue'>@padulavic</span>
-                    </div>
+                    <a href='https://telegram.me/padulavic'>
+                        <img  className='contactImg' src={Telegram} alt='Telegram' /> 
+                        <span className='iconTitle'>Telegram</span> 
+                        <span className='iconValue'>@padulavic</span>
+                    </a>
+                </div>
                 <div className='flexCenter'>
-                    <img  className='contactImg' src={Whatsapp} alt='Whatsapp' /> 
-                    <span className='iconTitle'>Ping me on Whatsapp</span> 
-                    <span className='iconValue'>+351 913416112</span>
-                    </div>
+                    <a href="https://wa.me/351913416112?text=Hello! I was Brought here by your site">
+                        <img  className='contactImg' src={Whatsapp} alt='Whatsapp' /> 
+                        <span className='iconTitle'>Whatsapp</span> 
+                        <span className='iconValue'>+351 913416112</span>
+                    </a>
+                </div>
                 <div className='flexCenter'>
-                    <img  className='contactImg' src={Email} alt='Email' />       
-                    <span className='iconTitle'>Send me a Email</span> 
-                    <span className='iconValue'>padula.vitoria@gmail.com</span>
-                    </div>
+                    <a href="mailto:padula.vitoria@gmail.com">
+                        <img  className='contactImg' src={Email} alt='Email' />       
+                        <span className='iconTitle'>Email</span> 
+                        <span className='iconValue'>padula.vitoria@gmail.com</span>
+                    </a>
+                </div>
                 <div className='flexCenter'>
-                    <img  className='contactImg' src={Linkedin} alt='linkedin' /> 
-                    <span className='iconTitle'>Mesage me on Linkedin</span> 
-                    <span className='iconValue'>/in/padulavic</span>
+                    <a href='https://www.linkedin.com/in/padulavic/'>
+                        <img  className='contactImg' src={Linkedin} alt='linkedin' /> 
+                        <span className='iconTitle'>Linkedin</span> 
+                        <span className='iconValue'>/in/padulavic</span>
+                    </a>
                 </div>
                 </div>
             </div>
