@@ -3,7 +3,7 @@ import React from 'react'
 export default class Projects extends React.Component{
     render(){
         return(
-            <div className='projects page'>
+            <div className='projects'>
                 <h4>As you may expect, most of the projects I took part are held by private companies.</h4>
                 <h4>But here is a  sample of my work that is open to the public</h4>
 

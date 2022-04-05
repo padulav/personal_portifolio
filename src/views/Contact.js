@@ -8,7 +8,7 @@ import Linkedin from '../assets/linkedin.png'
 export default class Contact extends React.Component{
     render(){
         return(
-            <div className='contact page flexCenter'>
+            <div className='contact flexCenter'>
                 <div>
                 <div className='flexCenter'>
                     <a href='https://telegram.me/padulavic'>
