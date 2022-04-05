@@ -185,6 +185,9 @@ h2{
   
   .about{display: block; height: fit-content;}
 
+  
+.pdfIcon{height: 4vh; padding-right: 5px; filter: invert(85%);}
+
   .cv{
     background-color: #1f2027;
     position: fixed;
@@ -192,6 +195,8 @@ h2{
     width: 100vw;
   }
   
+
+
   .projects{padding-left: 4vw; width: 90vw;}
   .project{display: grid;margin-bottom: 20px;}
   .project a:link{color: #d9d9d9;}
