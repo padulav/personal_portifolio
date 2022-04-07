@@ -1,5 +1,5 @@
 import React from 'react'
-import cv from '../assets/curriculum_vitae_vitoria_padula.pdf'
+import cv from '../assets/cv_vitoria_padula.pdf'
 import pdf from '../assets/pdf.png'
 
 export default class Home extends React.Component{
