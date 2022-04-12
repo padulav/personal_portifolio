@@ -23,11 +23,11 @@ export default class Home extends React.Component{
                 </div>
 
                 <div className='iconBar'>
-                    <a className='icon' href="https://www.linkedin.com/in/padulavic/">   
+                    <a className='icon' href="https://github.com/padulav">   
                         <img src={Github}    alt="github"/>
                         <span>Linkedin</span>
                     </a>
-                    <a className='icon' href="https://github.com/padulav">               
+                    <a className='icon' href="https://www.linkedin.com/in/padulavic/">               
                         <img src={Linkedin}  alt="linkedin"/>
                         <span>Github</span>
                     </a>
