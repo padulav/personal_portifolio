@@ -2,7 +2,7 @@
 
 ## Where to find it
 
-Its currently at firebase hosting under the url https://sicpadulavic.web.app
+https://padula.knows.codes
 
 ## Icons and image sources
 
